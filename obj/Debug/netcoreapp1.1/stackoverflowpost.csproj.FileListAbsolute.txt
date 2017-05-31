@@ -1,0 +1,8 @@
+C:\_WORKS\george\tests\stackoverflowpost\bin\Debug\netcoreapp1.1\stackoverflowpost.deps.json
+C:\_WORKS\george\tests\stackoverflowpost\bin\Debug\netcoreapp1.1\stackoverflowpost.runtimeconfig.json
+C:\_WORKS\george\tests\stackoverflowpost\bin\Debug\netcoreapp1.1\stackoverflowpost.runtimeconfig.dev.json
+C:\_WORKS\george\tests\stackoverflowpost\bin\Debug\netcoreapp1.1\stackoverflowpost.dll
+C:\_WORKS\george\tests\stackoverflowpost\bin\Debug\netcoreapp1.1\stackoverflowpost.pdb
+C:\_WORKS\george\tests\stackoverflowpost\obj\Debug\netcoreapp1.1\stackoverflowpost.AssemblyInfo.cs
+C:\_WORKS\george\tests\stackoverflowpost\obj\Debug\netcoreapp1.1\stackoverflowpost.dll
+C:\_WORKS\george\tests\stackoverflowpost\obj\Debug\netcoreapp1.1\stackoverflowpost.pdb
